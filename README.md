@@ -104,7 +104,7 @@ def monitor():
 | `*/10 * * * *` | Every 10 minutes |
 | `*/30 * * * *` | Every 30 minutes |
 | `0 * * * *` | Every 1 hour |
-| `0 */6 * * *` | Every 6 hours |
+| `0 */6 * * *` | Every 6 hours | 
 
 4. Click **"Commit changes"** ✅
 
