@@ -1,7 +1,7 @@
 # Shoping_Monitor
 # 🛒 AJIO Stock Monitor
 
-Automatically checks AJIO product pages every 10 minutes and sends a **Gmail alert** when your desired size is back in stock. Runs 24/7 on GitHub Actions — no PC needed!
+Automatically checks AJIO product pages every 10 minutes and sends a **Gmail alert** when your desired size is back in stock. Runs 24/7 on GitHub Actions — no PC needed!  
 
 ---
 
